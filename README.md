@@ -11,5 +11,5 @@
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Jos%C3%A9%20G%C3%B3mez%20Garc%C3%ADa-blue)](https://www.linkedin.com/in/alejandro-jos%C3%A9-g%C3%B3mez-garc%C3%ADa-08820b203/)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Jos%C3%A9%20G%C3%B3mez%20Garc%C3%ADa-blue)](https://www.linkedin.com/in/alejandro-jose-gomez-garcia/)</br>
 [![Researchgate](https://img.shields.io/badge/Researchgate-Alejandro%20Jos%C3%A9%20G%C3%B3mez%20Garc%C3%ADa-blue)](https://www.researchgate.net/profile/Alejandro-Gomez-Garcia-2)
