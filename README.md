@@ -6,9 +6,9 @@
 
 ## Skills:
 ![R](https://img.shields.io/badge/R-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)</br>
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-101010?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=009688)</br>
-![Data Science](https://img.shields.io/badge/Data%20Science-101010?style=for-the-badge&logo=databricks&logoColor=white&labelColor=F7931E)</br>
+![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=3776AB)</br>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=009688)</br>
+![Data Science](https://img.shields.io/badge/Data%20Science-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=F7931E)</br>
 ![Biostatistics](https://img.shields.io/badge/Biostatistics-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 
