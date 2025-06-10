@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Alejandro2195
-- 👀 I’m interested in R, Bioinformatics and Data Analysis
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on Bioinformatic and Biostatistics projects
+- 👀 I’m interested in Data Science, Machine Learning and Data Analysis
+- 🌱 I’m currently working in Data Analysis
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me alejandrorex95@gmail.com
 
 ## Skills:
-![Data Science](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)</br>
 ![R](https://img.shields.io/badge/R-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-blue)</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=databricks&logoColor=white)
 ![Biostatistics](https://img.shields.io/badge/Biostatistics-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 
